@@ -1,6 +1,6 @@
 // index.js
 // where your node app starts
-
+// accepted
 // init project
 var express = require('express');
 var app = express();
